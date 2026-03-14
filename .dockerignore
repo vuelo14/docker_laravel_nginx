@@ -1,0 +1,15 @@
+node_modules
+vendor
+public/build
+public/storage
+storage/*.key
+.git
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.yml
+Dockerfile
+.dockerignore
+npm-debug.log
+composer.lock
+package-lock.json
